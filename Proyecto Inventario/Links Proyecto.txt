@@ -1,0 +1,13 @@
+						==========================
+						===== LINKS PROYECTO =====
+						==========================
+
+				*** LINK DE CARPETA DONDE SE ENCUENTRAN LOS RECURSOS ***
+
+			Link --> 
+
+			• Diagramas y Análisis
+			• Script Base de Datos
+			• Librerías
+			• Otros recursos
+				
